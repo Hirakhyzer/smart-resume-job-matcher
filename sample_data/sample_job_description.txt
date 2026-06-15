@@ -1,0 +1,17 @@
+Junior AI Software Developer
+
+We are looking for a motivated Junior AI Software Developer to build practical tools for students and business users. The candidate will create Python applications, Streamlit dashboards, and APIs that help users analyze documents and make better decisions.
+
+Responsibilities
+- Build clean Python applications and reusable modules.
+- Create interactive Streamlit dashboards with strong UI/UX.
+- Work with text data, natural language processing, and machine learning workflows.
+- Analyze structured data using SQL and data visualization tools.
+- Write tests and maintain code with Git and GitHub.
+- Collaborate in an agile team and communicate technical decisions clearly.
+
+Required Skills
+Python, Streamlit, Machine Learning, NLP, SQL, Data Analysis, Data Visualization, Git, GitHub, API Development, Testing, Agile, Communication, Problem Solving
+
+Nice to Have
+Docker, CI/CD, FastAPI, cloud deployment experience, and portfolio projects with clear README files.
