@@ -1,0 +1,30 @@
+Hira Khyzer
+Email: hira@example.com
+GitHub: https://github.com/Hirakhyzer
+LinkedIn: https://linkedin.com/in/example
+
+Professional Summary
+Computer Science graduate student and developer with experience building Python applications, Streamlit dashboards, machine learning demos, and GitHub portfolio projects. Interested in practical AI tools, data analysis, and user-focused software.
+
+Technical Skills
+Python, SQL, Streamlit, Machine Learning, Natural Language Processing, Data Analysis, Data Visualization, Git, GitHub, REST API, Testing, Agile collaboration
+
+Projects
+Smart Research Topic Classifier
+- Built a Python text classification tool that labels research abstracts into topic areas.
+- Created a JSON model artifact, sample dataset, and clear README for reproducible use.
+- Improved project documentation quality across 5+ GitHub projects.
+
+Student Dashboard Prototype
+- Designed a Streamlit dashboard for tracking study progress and assignment completion.
+- Added charts and summary metrics for better student planning.
+
+Experience
+Software Developer Intern
+- Built Python scripts to clean CSV data and generate dashboard-ready reports.
+- Collaborated with a small team using GitHub issues and pull requests.
+- Reduced manual reporting time by 30% through automation.
+
+Education
+MS / PhD-track Computer Science applicant
+Bachelor's degree in Computer Science
